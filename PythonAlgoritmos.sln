@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAlgoritmos", "PythonAlgoritmos.pyproj", "{05684FFB-60E0-46BC-BB00-2245D069076C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringPermutation", "C:\Users\japso\source\repos\StringPermutation\StringPermutation.pyproj", "{FE1BAB19-3CA5-4AE1-AF40-D43062796FFF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tarea7", "C:\Users\japso\source\repos\Tarea7\Tarea7.pyproj", "{33956920-E125-4AE4-B333-6D943437248B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CountingSort", "C:\Users\japso\source\repos\InverseMergeSort\CountingSort.pyproj", "{EBA1CAB9-DE59-4F3E-9982-75E6D8A43B8E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ArrayBinarySearch", "C:\Users\japso\source\repos\ArrayBinarySearch\ArrayBinarySearch.pyproj", "{3674746F-9DE0-4320-BDEF-CDEF566D30AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05684FFB-60E0-46BC-BB00-2245D069076C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05684FFB-60E0-46BC-BB00-2245D069076C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1BAB19-3CA5-4AE1-AF40-D43062796FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1BAB19-3CA5-4AE1-AF40-D43062796FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33956920-E125-4AE4-B333-6D943437248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33956920-E125-4AE4-B333-6D943437248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA1CAB9-DE59-4F3E-9982-75E6D8A43B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA1CAB9-DE59-4F3E-9982-75E6D8A43B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3674746F-9DE0-4320-BDEF-CDEF566D30AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3674746F-9DE0-4320-BDEF-CDEF566D30AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574A462B-6766-4E46-9C38-6D04DC049D77}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BubbleSort", "BubbleSort\BubbleSort.pyproj", "{D464F3D5-BA4F-47C0-9895-1B20F1D6DD38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InsertionSort", "InsertionSort\InsertionSort.pyproj", "{8A1AB3BB-B35A-4B40-9FE7-22A16E296525}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SelectionSort", "SelectionSort\SelectionSort.pyproj", "{CF1D8A9E-3D1C-4776-8AFB-7D1E35BDB18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D464F3D5-BA4F-47C0-9895-1B20F1D6DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D464F3D5-BA4F-47C0-9895-1B20F1D6DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1AB3BB-B35A-4B40-9FE7-22A16E296525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1AB3BB-B35A-4B40-9FE7-22A16E296525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1D8A9E-3D1C-4776-8AFB-7D1E35BDB18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1D8A9E-3D1C-4776-8AFB-7D1E35BDB18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C399B4E3-DAB9-4E34-8097-3ACF3010F395}
+	EndGlobalSection
+EndGlobal
