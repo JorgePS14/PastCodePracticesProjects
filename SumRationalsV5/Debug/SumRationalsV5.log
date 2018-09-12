@@ -1,0 +1,5 @@
+﻿  main.cpp
+v:\metodos numericos c++\cursometodosnumericos\sumrationalsv5\main.cpp(11): error C2440: '=': cannot convert from 'int *' to 'int'
+  v:\metodos numericos c++\cursometodosnumericos\sumrationalsv5\main.cpp(11): note: There is no context in which this conversion is possible
+v:\metodos numericos c++\cursometodosnumericos\sumrationalsv5\main.cpp(12): error C2100: illegal indirection
+v:\metodos numericos c++\cursometodosnumericos\sumrationalsv5\main.cpp(27): error C3892: 'a': you cannot assign to a variable that is const
